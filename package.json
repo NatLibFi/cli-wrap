@@ -28,11 +28,11 @@
 	"type": "git",
 	"url": "git@github.com:NatLibFi/cli-wrap.git"
     },
-    "license": " GPL-3.0",
-    "version": "0.0.1",
+    "license": "LGPL-3.0+",
+    "version": "1.0.0",
     "main": "./lib/main",
     "dependencies": {
-	"es6-polyfills": "https://github.com/NatLibFi/es6-polyfills"
+	"es6-polyfills": "^2.0.0"
     },
     "devDependencies": {
 	"chai": "^3.2.0",
