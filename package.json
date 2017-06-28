@@ -29,7 +29,7 @@
 	"url": "git@github.com:NatLibFi/cli-wrap.git"
     },
     "license": "LGPL-3.0+",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "./lib/main",
     "dependencies": {
 	"es6-polyfills": "^2.0.0"
