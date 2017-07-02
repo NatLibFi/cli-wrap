@@ -1,4 +1,4 @@
-# cliWrap
+# cliWrap [![NPM Version](https://img.shields.io/npm/v/cli-wrap.svg)](https://npmjs.org/package/cli-wrap) [![Build Status](https://travis-ci.org/NatLibFi/cli-wrap.svg)](https://travis-ci.org/NatLibFi/es6-polyfills) [![Test Coverage](https://codeclimate.com/github/NatLibFi/cli-wrap/badges/coverage.svg)](https://codeclimate.com/github/NatLibFi/cli-wrap/coverage)
 
 Wrap command-line interface implementations in a function that takes care of interacting with the interpreter.
 
